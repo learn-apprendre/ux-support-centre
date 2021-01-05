@@ -1043,7 +1043,7 @@ a {
 .cid-sle87BPP0v {
   padding-top: 5rem;
   padding-bottom: 2rem;
-  background-image: url("../../../assets/images/background7.jpg");
+  background-color: #ffffff;
 }
 @media (max-width: 991px) {
   .cid-sle87BPP0v .mbr-section-title,
@@ -1055,6 +1055,7 @@ a {
 }
 .cid-sle87BPP0v .mbr-section-subtitle {
   text-align: left;
+  color: #000000;
 }
 .cid-slecRx9U88 {
   padding-top: 3rem;
@@ -1105,6 +1106,7 @@ a {
 }
 .cid-sleaomBL4I H3 {
   text-align: left;
+  color: #000000;
 }
 .cid-slebWqSpj3 {
   padding-top: 2rem;
@@ -1138,6 +1140,7 @@ a {
 }
 .cid-slebWqSpj3 H3 {
   text-align: left;
+  color: #ffffff;
 }
 .cid-sleerVFjZM {
   padding-top: 3rem;
