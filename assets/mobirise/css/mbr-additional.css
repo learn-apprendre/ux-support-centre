@@ -3548,6 +3548,24 @@ a {
 .cid-sl96H16Htk .media-container-row .mbr-text {
   color: #000000;
 }
+.cid-smtqk33Vhc {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-smtqk33Vhc .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-smtqk33Vhc img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-smtqk33Vhc .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sl8aLsLgKq {
   z-index: 1000;
   width: 100%;
@@ -3900,6 +3918,27 @@ a {
     left: -1rem;
   }
 }
+.cid-smtqUkIBTl {
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+  background-image: url("../../../assets/images/edtech-logo-may2020-logo-small-512x512.png");
+}
+@media (max-width: 991px) {
+  .cid-smtqUkIBTl .mbr-section-title,
+  .cid-smtqUkIBTl .mbr-section-subtitle,
+  .cid-smtqUkIBTl .mbr-section-btn,
+  .cid-smtqUkIBTl .mbr-text {
+    text-align: center;
+  }
+}
+.cid-smtqUkIBTl .mbr-section-title {
+  color: #000000;
+}
+.cid-smtqUkIBTl .mbr-text,
+.cid-smtqUkIBTl .mbr-section-btn {
+  color: #1b003a;
+  text-align: left;
+}
 .cid-sl96H16Htk {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -3973,4 +4012,64 @@ a {
 }
 .cid-sl96H16Htk .media-container-row .mbr-text {
   color: #000000;
+}
+.cid-smtr0Jpy8g {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-smtr0Jpy8g img,
+.cid-smtr0Jpy8g .item-img {
+  width: 100%;
+}
+.cid-smtr0Jpy8g .item:focus,
+.cid-smtr0Jpy8g span:focus {
+  outline: none;
+}
+.cid-smtr0Jpy8g .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-smtr0Jpy8g .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #4479d9;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-smtr0Jpy8g .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-smtr0Jpy8g .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-smtr0Jpy8g .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-smtr0Jpy8g .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-smtr0Jpy8g .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-smtr0Jpy8g .mbr-section-title {
+  color: #000000;
+}
+.cid-smtr0Jpy8g .mbr-text,
+.cid-smtr0Jpy8g .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-smtr0Jpy8g .item-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-smtr0Jpy8g .item-subtitle {
+  text-align: center;
+  color: #ffffff;
 }
