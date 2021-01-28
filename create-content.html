@@ -23,17 +23,21 @@
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-187352910-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
- 
-
-  gtag('config', 'UA-187352910-1');
+  <!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//webanalytics.csps-efpc.ca/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '16']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
 </script>
+<!-- End Matomo Code -->
   
 <meta name="theme-color" content="#4479d9">
 <link rel="manifest" href="manifest.json">
@@ -260,7 +264,7 @@
             <div class="col-12 col-lg-10">
                 
                 <h3 class="mbr-section-subtitle mbr-fonts-style mb-3 display-5">Overview</h3>
-                <p class="mbr-text mbr-fonts-style display-7">H5P (HTML 5 package) is a free, open source HTML5 based content creation tool which allows you to create interactive course content directly in Moodle, Brightspace and other web platform<br></p>
+                <p class="mbr-text mbr-fonts-style display-7">H5P (HTML 5 package) is a free, open source HTML5 based content creation tool which allows you to create interactive course content directly in Moodle, Brightspace and other web platform.<br></p>
                 <div class="mbr-section-btn mt-3"><a class="btn btn-info display-4" href="https://learn-apprendre.ca/mod/page/view.php?id=1111" target="_blank"><span class="mdi-action-open-in-new mbr-iconfont mbr-iconfont-btn"></span>See an example of an H5P activity</a></div>
             </div>
         </div>

@@ -23,17 +23,21 @@
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-187352910-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
- 
-
-  gtag('config', 'UA-187352910-1');
+  <!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//webanalytics.csps-efpc.ca/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '16']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
 </script>
+<!-- End Matomo Code -->
   
 <meta name="theme-color" content="#4479d9">
 <link rel="manifest" href="manifest.json">
@@ -242,7 +246,7 @@
         <div class="row justify-content-center">
             <div class="col-md-12 col-lg-10">
                     <h3 class="mbr-section-title mbr-fonts-style mb-4 display-5">
-                        Publish your content on Open learing if:</h3>
+                        Publish your content on Open learning if:</h3>
                 <ul class="list mbr-fonts-style display-7">
                     <li>You DO NOT require your learners be tracked.</li><li>Your learners DO NOT require a record on their transcripts.</li><li>Your content has the permissions and copyright to be made open to everyoe, including all Canadian citizens.</li><li>Your content does not require a learner to have an account.</li><li><span style="font-size: 1.2rem;">Your content is available in the following formats: video (.mp4, Kaltura embed link), Moodle (.mobi), text, images (.jpg, .jpeg or .png), SCORM (version 1.2 zip file), .h5p.</span><br></li><li><span style="font-size: 1.2rem;">Your content meets our accessibility criteria (WCAG 2.0 AA or higher). More details here: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=2360" class="text-primary" target="_blank">https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=2360</a>.</span></li><li><span style="font-size: 1.2rem;">Your content meets the our official language requirements. More details here: <a href="https://www.csps-efpc.gc.ca/termsandconditions/index-eng.aspx#pco" class="text-primary" target="_blank">https://www.csps-efpc.gc.ca/termsandconditions/index-eng.aspx#pco</a>l.<br></span><br></li>
                 </ul>
@@ -301,7 +305,7 @@
                     <h3 class="mbr-section-title mbr-fonts-style mb-4 display-5">
                         Visit GCshare if:</h3>
                 <ul class="list mbr-fonts-style display-7">
-                    <li><span style="font-size: 1.2rem;">You are planing to design or develop new learning content and want to know if something similar may already exist for you to reuse or repurpose.</span><br></li><li><span style="font-size: 1.2rem;">You developed content that you think might be useful for other content creators to use.</span></li>
+                    <li><span style="font-size: 1.2rem;">You are planning to design or develop new learning content and want to know if something similar may already exist for you to reuse or repurpose.</span><br></li><li><span style="font-size: 1.2rem;">You developed content that you think might be useful for other content creators to use.</span></li>
                 </ul>
             </div>
         </div>
