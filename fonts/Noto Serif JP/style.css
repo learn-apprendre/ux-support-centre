@@ -1,0 +1,49 @@
+@font-face {
+   font-family: 'Noto Serif JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Serif JP/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Serif JP/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Serif JP/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Serif JP/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Serif JP/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Serif JP/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif JP';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Serif JP/regular.ttf') format('truetype');
+}

@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'Noto Sans';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Sans/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Sans/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Sans/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/antoinedespres-bedward/Documents/GitHub/ux-support-centre/fonts/Noto Sans/700italic.ttf') format('truetype');
+}
